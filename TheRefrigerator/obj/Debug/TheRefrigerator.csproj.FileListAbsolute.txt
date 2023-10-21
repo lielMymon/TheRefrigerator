@@ -1,0 +1,16 @@
+C:\Users\liel mymon\OneDrive\שולחן העבודה\LIEL COURSES\TheRefrigerator\TheRefrigerator\bin\Debug\TheRefrigerator.exe.config
+C:\Users\liel mymon\OneDrive\שולחן העבודה\LIEL COURSES\TheRefrigerator\TheRefrigerator\bin\Debug\TheRefrigerator.exe
+C:\Users\liel mymon\OneDrive\שולחן העבודה\LIEL COURSES\TheRefrigerator\TheRefrigerator\bin\Debug\TheRefrigerator.pdb
+C:\Users\liel mymon\OneDrive\שולחן העבודה\LIEL COURSES\TheRefrigerator\TheRefrigerator\obj\Debug\TheRefrigerator.csproj.AssemblyReference.cache
+C:\Users\liel mymon\OneDrive\שולחן העבודה\LIEL COURSES\TheRefrigerator\TheRefrigerator\obj\Debug\TheRefrigerator.csproj.SuggestedBindingRedirects.cache
+C:\Users\liel mymon\OneDrive\שולחן העבודה\LIEL COURSES\TheRefrigerator\TheRefrigerator\obj\Debug\TheRefrigerator.csproj.CoreCompileInputs.cache
+C:\Users\liel mymon\OneDrive\שולחן העבודה\LIEL COURSES\TheRefrigerator\TheRefrigerator\obj\Debug\TheRefrigerator.exe
+C:\Users\liel mymon\OneDrive\שולחן העבודה\LIEL COURSES\TheRefrigerator\TheRefrigerator\obj\Debug\TheRefrigerator.pdb
+C:\Users\liel mymon\OneDrive\מסמכים\GitHub\TheRefrigerator\TheRefrigerator\bin\Debug\TheRefrigerator.exe.config
+C:\Users\liel mymon\OneDrive\מסמכים\GitHub\TheRefrigerator\TheRefrigerator\bin\Debug\TheRefrigerator.exe
+C:\Users\liel mymon\OneDrive\מסמכים\GitHub\TheRefrigerator\TheRefrigerator\bin\Debug\TheRefrigerator.pdb
+C:\Users\liel mymon\OneDrive\מסמכים\GitHub\TheRefrigerator\TheRefrigerator\obj\Debug\TheRefrigerator.csproj.AssemblyReference.cache
+C:\Users\liel mymon\OneDrive\מסמכים\GitHub\TheRefrigerator\TheRefrigerator\obj\Debug\TheRefrigerator.csproj.SuggestedBindingRedirects.cache
+C:\Users\liel mymon\OneDrive\מסמכים\GitHub\TheRefrigerator\TheRefrigerator\obj\Debug\TheRefrigerator.csproj.CoreCompileInputs.cache
+C:\Users\liel mymon\OneDrive\מסמכים\GitHub\TheRefrigerator\TheRefrigerator\obj\Debug\TheRefrigerator.exe
+C:\Users\liel mymon\OneDrive\מסמכים\GitHub\TheRefrigerator\TheRefrigerator\obj\Debug\TheRefrigerator.pdb
